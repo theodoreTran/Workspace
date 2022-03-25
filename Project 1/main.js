@@ -1,10 +1,12 @@
-// function writeLog() {
-// 	var myString = "";
-// 	for (var param of arguments){
-//         myString += `${param} - `;
-// 	}
-//     console.log(myString)
-// }
-// writeLog('thinh1','thinh2');
-var firstName='Tran', lastName='Thinh';
-console.log(firstName, lastName);
+var numbers=[
+    1,
+    2,
+    5,
+    10,
+    20,
+    50,
+    100,
+    200,
+];
+
+console.log(Math.max());));
